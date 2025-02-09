@@ -1,0 +1,80 @@
+// Detailed Doctor Database
+[Doctor-1]
+Name: Dr. Sarah Johnson
+Specialty: Cardiology
+Experience: 15 years
+Rating: 4.8
+Location: New York, NY
+Available: Yes
+Expertise: Heart disease, Hypertension, Cardiac rehabilitation
+Languages: English, Spanish
+Consultation Fee: $200
+Next Available: 2 days
+Video Consultation: Yes
+
+[Doctor-2]
+Name: Dr. Michael Chen
+Specialty: Neurology
+Experience: 12 years
+Rating: 4.9
+Location: San Francisco, CA
+Available: Yes
+Expertise: Headaches, Seizures, Multiple sclerosis
+Languages: English, Mandarin
+Consultation Fee: $180
+Next Available: 1 day
+Video Consultation: Yes
+
+[Doctor-3]
+Name: Dr. Emily Rodriguez
+Specialty: Gastroenterology
+Experience: 10 years
+Rating: 4.7
+Location: Miami, FL
+Available: Yes
+Expertise: Digestive disorders, IBS, Inflammatory bowel disease
+Languages: English, Spanish
+Consultation Fee: $150
+Next Available: 3 days
+Video Consultation: Yes
+
+[Doctor-4]
+Name: Dr. James Wilson
+Specialty: Pulmonology
+Experience: 20 years
+Rating: 4.9
+Location: Chicago, IL
+Available: Yes
+Expertise: Asthma, COPD, Sleep disorders
+Languages: English
+Consultation Fee: $190
+Next Available: 2 days
+Video Consultation: Yes
+
+[Doctor-5]
+Name: Dr. Lisa Chang
+Specialty: Dermatology
+Experience: 8 years
+Rating: 4.6
+Location: Los Angeles, CA
+Available: Yes
+Expertise: Skin cancer, Acne, Cosmetic procedures
+Languages: English, Korean
+Consultation Fee: $160
+Next Available: 1 day
+Video Consultation: Yes
+
+[Doctor-6]
+Name: Dr. Robert Martinez
+Specialty: Orthopedics
+Experience: 14 years
+Rating: 4.8
+Location: Houston, TX
+Available: Yes
+Expertise: Joint replacement, Sports injuries, Spine disorders
+Languages: English, Spanish
+Consultation Fee: $220
+Next Available: 3 days
+Video Consultation: Yes
+
+[Continue with more doctors 7-100 following the same format...]

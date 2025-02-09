@@ -1,0 +1,24 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "specialty": "Cardiology"
+    },
+    {
+      "id": 2,
+      "specialty": "Neurology"
+    },
+    {
+      "id": 3,
+      "specialty": "Gastroenterology"
+    },
+    {
+      "id": 4,
+      "specialty": "Orthopedics"
+    },
+    {
+      "id": 5,
+      "specialty": "Dermatology"
+    }
+  ]
+}

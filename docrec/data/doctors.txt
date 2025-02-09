@@ -1,0 +1,22 @@
+// Quick Reference Doctor Database
+ID: 1, Specialty: Cardiology
+ID: 2, Specialty: Neurology
+ID: 3, Specialty: Gastroenterology
+ID: 4, Specialty: Pulmonology
+ID: 5, Specialty: Dermatology
+ID: 6, Specialty: Orthopedics
+ID: 7, Specialty: ENT
+ID: 8, Specialty: Endocrinology
+ID: 9, Specialty: Ophthalmology
+ID: 10, Specialty: Psychiatry
+ID: 11, Specialty: Pediatrics
+ID: 12, Specialty: Oncology
+ID: 13, Specialty: Rheumatology
+ID: 14, Specialty: Urology
+ID: 15, Specialty: Nephrology
+ID: 16, Specialty: Gynecology
+ID: 17, Specialty: Hematology
+ID: 18, Specialty: Allergy & Immunology
+ID: 19, Specialty: Pain Medicine
+ID: 20, Specialty: Sports Medicine
+[Continue with IDs 21-100...]
